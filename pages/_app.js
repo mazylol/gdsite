@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
         <link
           rel="icon"
           type="image/x-icon"
-          href="https://upload.wikimedia.org/wikipedia/commons/f/f7/Bananas.svg"
+          href="/favicon.svg"
         />
       </Head>
     </>

@@ -1,5 +1,7 @@
 import Navbar from '../components/Navbar';
 import TitleSection from '../components/TitleSection';
+import Info from '../components/Info';
+import Footer from '../components/Footer';
 import Head from 'next/head';
 
 export default function Home() {
@@ -17,6 +19,8 @@ export default function Home() {
         <Navbar />
       </div>
       <TitleSection />
+      <Info />
+      <Footer />
     </div>
   );
 }

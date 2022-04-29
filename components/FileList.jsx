@@ -4,13 +4,12 @@ export default function FileList() {
   return (
     <div className="w-full p-5">
       <div className="grid grid-cols-2 gap-4">
-        <div className="bg-zinc-800 rounded-md">
-          <p className="text-white font-semibold text-left text-3xl m-5">Platformer</p>
-          <p className="text-gray-300 font-medium text-left text-xl m-5">A delighul hopping adventure</p>
-          <span className="flex justify-right">
-            <Image alt="platformer" src="/platformer.jpg" height={200} width={300} />
-          </span>
-        </div>
+        <a href="https://google.com">
+          <div className="bg-zinc-800 rounded-md">
+            <p className="text-white font-semibold text-left text-3xl p-5">Platformer</p>
+            <p className="text-gray-300 font-medium text-left text-xl mx-5 pb-5">A delightful hopping adventure where you will be creating the hopping adventure of your dreams</p>
+          </div>
+        </a>
       </div>
     </div>
   )

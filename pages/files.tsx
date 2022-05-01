@@ -1,6 +1,6 @@
 import Head from "next/head";
 import FileList from "../components/FileList";
-import Footer from "/components/Footer";
+import Footer from "../components/Footer";
 
 export default function Files() {
   return (

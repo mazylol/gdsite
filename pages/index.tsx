@@ -1,5 +1,5 @@
-import Info from "/components/Info";
-import Footer from "/components/Footer";
+import Info from "../components/Info";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (

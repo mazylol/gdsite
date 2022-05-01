@@ -11,6 +11,8 @@
   "dependencies": {
     "@headlessui/react": "^1.6.0",
     "@heroicons/react": "^1.0.6",
+    "@types/node": "^17.0.30",
+    "@types/react": "^18.0.8",
     "headlessui": "^0.0.0",
     "heroicons": "^1.0.6",
     "next": "12.1.5",

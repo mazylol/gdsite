@@ -18,7 +18,7 @@ export default function Navbar() {
               Files
             </a>
           </Link>
-          <Link href="">
+          <Link href="/showcase">
             <a className="inline-block mt-0 text-gray-300 hover:text-white mr-4 text-md">
               Showcase
             </a>

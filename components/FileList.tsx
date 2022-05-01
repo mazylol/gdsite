@@ -1,10 +1,9 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function FileList() {
   return (
     <div className="w-full p-5">
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 gap-4">
         <Link href="https://google.com" passHref>
           <div className="bg-zinc-800 rounded-md hover:bg-zinc-700 duration-200">
             <p className="text-white font-semibold text-left text-3xl p-5">

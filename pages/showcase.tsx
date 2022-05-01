@@ -6,9 +6,7 @@ export default function Showcase() {
       <Head key="/showcase">
         <title>Game Design | Showcase</title>
       </Head>
-      <div className="min-h-screen bg-zinc-900">
-        
-      </div>
+      <div className="min-h-screen bg-zinc-900"></div>
     </>
   );
 }

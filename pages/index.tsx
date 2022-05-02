@@ -3,6 +3,7 @@ import Footer from "../components/Footer";
 
 export default function Home() {
   return (
+    <>
     <div className="min-h-screen bg-zinc-900">
       <div className="flex w-full h-64 bg-gradient-to-r from-yellow-400 via-green-500 to-blue-700">
         <div className="mx-auto my-auto">
@@ -16,5 +17,6 @@ export default function Home() {
       </div>
       <Info />
     </div>
+    </>
   );
 }
